@@ -1,0 +1,24 @@
+.box{
+    aspect-ratio: 1 / 1;
+    width:100%;
+    border: 1px solid black;
+    
+   
+}
+.row {
+    --bs-gutter-x: 0;
+
+}
+.black {
+    background-color: rgb(78, 73, 73);
+}
+.orange {
+    background-color: rgb(255, 111, 0);
+}
+.yellow {
+    background-color: rgb(255, 190, 69);
+}
+
+.dark {
+    background-color: black;
+}
